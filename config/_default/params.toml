@@ -21,8 +21,8 @@ publisherLogo = ""
 [hero]
   slogan = "Call me Anni."
   # Specify the image name in `assets/images/` folder.
-  imgLeft = "/annivuorinen-project/images/hero-left.jpg"
-  imgRight = "/annivuorinen-project/images/hero-right.jpg"
+  imgLeft = "/images/hero-left.jpg"
+  imgRight = "/images/hero-right.jpg"
 
 [math]
   handler = "katex"
